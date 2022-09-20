@@ -62,7 +62,7 @@ for(;  ; )
  i++;
 }*/
 int n;
-cout<<"enter the value what you wante ";
+cout<<"enter the value what you wante to ";
 cin>>n;
  int sum =0;
 for (int i = 1; i <=n; i++)
